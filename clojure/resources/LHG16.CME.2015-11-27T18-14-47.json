@@ -1,0 +1,33 @@
+{
+"list" : { 
+"meta" : { 
+"type" : "resource-list",
+"start" : 0,
+"count" : 1
+},
+"resources" : [ 
+{
+"resource" : { 
+"classname" : "Quote",
+"fields" : { 
+"change" : "-0.400002",
+"chg_percent" : "-0.688767",
+"day_high" : "57.950001",
+"day_low" : "57.200001",
+"issuer_name" : "Lean Hogs Feb 16",
+"name" : "Lean Hogs Feb 16",
+"price" : "57.674999",
+"symbol" : "LHG16.CME",
+"ts" : "1448648087",
+"type" : "future",
+"utctime" : "2015-11-27T18:14:47+0000",
+"volume" : "5882",
+"year_high" : "57.950001",
+"year_low" : "57.200001"
+}
+}
+}
+
+]
+}
+}
