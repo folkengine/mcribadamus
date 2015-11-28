@@ -1,6 +1,6 @@
-(ns mcrib.core-test
+(ns mcribadamus.core-test
   (:require [clojure.test :refer :all]
-            [mcrib.core :refer :all]))
+            [mcribadamus.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
