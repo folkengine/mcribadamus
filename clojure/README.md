@@ -1,3 +1,10 @@
+# Testing
+
+This project use [Midje](https://github.com/marick/Midje) for testing.
+
+    $> lein midje :autotest
+
+
 # Examples
 Examples from 11/20's meeting...
 
