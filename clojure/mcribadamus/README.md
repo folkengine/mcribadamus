@@ -1,3 +1,5 @@
+[![Clojars Project](http://clojars.org/mcribadamus/latest-version.svg)](http://clojars.org/mcribadamus)
+
 # Testing
 
 This project use [Midje](https://github.com/marick/Midje) for testing.
