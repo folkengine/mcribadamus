@@ -1,1 +1,0 @@
-web: java $JVM_OPTS -cp target/mcribadamus-app.jar clojure.main -m mcribadamus-app.core

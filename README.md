@@ -5,22 +5,11 @@
 
 For centuries people have looked to the wisdom of Nostradamus in order to see into the future. In modern times few problems have vexed mankind more than when the McRib(tm) sandwich will be available. Now, thanks to the power of McRibadamus, they can know the fate of the value meal they love so much.
 
-Chris Baker ([@folkengine](https://twitter.com/folkengine))
+Christoph ([@folkengine](https://github.com/folkengine))
 
-## A Word From History
 
-The original 2015 version of this kata pulled quotes from the Yahoo Finance
-`webservice/v1` API using the CME's `LH` lean hog symbols. Both are gone: Yahoo
-killed that API in 2017, and the CME renamed lean hog futures from `LH` to
-`HE`. Let this be the kata's first lesson — **APIs die, and your code outlives
-them**. The `clojure/mcribadamus/` library and `clojure/mcribadamus-app/` web
-app preserve the original 2015 solution, dead endpoint and all, as a
-historical exhibit.
 
-This version of the kata is language-agnostic: implement it in whatever
-language you like.
-
-# Requirements
+## Requirements
 
 In this exercise you will create an application that attempts to predict the
 availability of the McRib based upon the price of Lean Hog Futures (Pork)
